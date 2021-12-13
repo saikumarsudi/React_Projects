@@ -1,0 +1,30 @@
+.dashboard{
+    height: 1024px;
+    width: 1440px;
+    border-style: solid;
+    display: flex;
+    flex-direction: row;
+    background-color: #1F1F1F;
+    ;
+}
+.leftNavigationBar{
+    height: 1024px;
+    width: 96px;
+}
+.dashboard2{
+    display: flex;
+    flex-direction: column;
+    ;
+}
+.topNavigationBar{
+    height: 88px;
+    width: 1312px;
+    margin-left: 16px;
+    margin-top: 16px;
+
+}
+.bottomNavigationBar{
+    Width:1344px;
+    Height:91px;
+    margin-top: 829px;
+}
